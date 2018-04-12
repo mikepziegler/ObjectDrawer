@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataSource name="DBObject">
+  <database-model serializer="dbm" rdbms="DERBY" format-version="4.7">
+    <root id="1"/>
+    <schema id="2" parent="1" name="APP">
+      <Visible>1</Visible>
+    </schema>
+    <schema id="3" parent="1" name="NULLID"/>
+    <schema id="4" parent="1" name="SQLJ"/>
+    <schema id="5" parent="1" name="SYS"/>
+    <schema id="6" parent="1" name="SYSCAT"/>
+    <schema id="7" parent="1" name="SYSCS_DIAG"/>
+    <schema id="8" parent="1" name="SYSCS_UTIL"/>
+    <schema id="9" parent="1" name="SYSFUN"/>
+    <schema id="10" parent="1" name="SYSIBM"/>
+    <schema id="11" parent="1" name="SYSPROC"/>
+    <schema id="12" parent="1" name="SYSSTAT"/>
+    <table id="13" parent="2" name="TFILE"/>
+    <column id="14" parent="13" name="FILEID">
+      <Position>1</Position>
+      <DataType>INTEGER|4s</DataType>
+      <NotNull>1</NotNull>
+      <SequenceIdentity>1</SequenceIdentity>
+      <DefaultExpression>GENERATED_BY_DEFAULT</DefaultExpression>
+    </column>
+    <column id="15" parent="13" name="FILENAME">
+      <Position>2</Position>
+      <DataType>VARCHAR(50)|12s</DataType>
+    </column>
+  </database-model>
+</dataSource>
