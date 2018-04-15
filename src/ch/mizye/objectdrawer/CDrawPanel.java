@@ -10,6 +10,8 @@ public class CDrawPanel extends JPanel {
 
     }
 
+    public void drawObjects() {
 
+    }
 
 }

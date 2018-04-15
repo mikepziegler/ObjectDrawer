@@ -10,7 +10,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/db-derby-10.14.1.0-bin/lib/derby.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Apps &amp; Dateien/db-derby-10.14.1.0-bin/lib/derbyclient.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -19,7 +19,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/db-derby-10.14.1.0-bin/lib/derbyclient.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Apps &amp; Dateien/db-derby-10.14.1.0-bin/lib/derby.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -28,7 +28,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/db-derby-10.14.1.0-bin/lib/derbytools.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Apps &amp; Dateien/db-derby-10.14.1.0-bin/lib/derbytools.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
@@ -37,7 +37,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$USER_HOME$/Desktop/db-derby-10.14.1.0-bin/lib/derbynet.jar!/" />
+          <root url="jar://$USER_HOME$/Desktop/Apps &amp; Dateien/db-derby-10.14.1.0-bin/lib/derbynet.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
